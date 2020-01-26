@@ -1,1 +1,0 @@
-Start a Docker Container for the Rock Paper Scissors microservice with NGINX reverse proxy.
